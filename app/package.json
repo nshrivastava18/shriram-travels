@@ -1,5 +1,5 @@
 {
-  "homepage": "http://nshrivastava18.github.io/travelbhakta",
+  "homepage": "http://nshrivastava18.github.io/shriram-travels",
   "name": "shriram-travel",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "start": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shriram-travels/static/css/main.90590d01.css",
+    "main.js": "/shriram-travels/static/js/main.ec8a9a67.js",
+    "static/media/hero.png": "/shriram-travels/static/media/hero.decd6e523fe133c3c563.png",
+    "static/media/Destination5.png": "/shriram-travels/static/media/Destination5.8db742a0db2114f7116a.png",
+    "static/media/Destination2.png": "/shriram-travels/static/media/Destination2.64eec9804e3149d26787.png",
+    "static/media/Destination1.png": "/shriram-travels/static/media/Destination1.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination6.png": "/shriram-travels/static/media/Destination6.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination4.png": "/shriram-travels/static/media/Destination4.c19a433ba2f75f2cd33b.png",
+    "static/media/Destination3.png": "/shriram-travels/static/media/Destination3.b4028caa98dffd19d08e.png",
+    "static/media/avatar.jpg": "/shriram-travels/static/media/avatar.5cc439010232b6d4eec8.jpg",
+    "static/media/footerlogo.jpg": "/shriram-travels/static/media/footerlogo.0a762b193defe99ef88e.jpg",
+    "static/media/github.svg": "/shriram-travels/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
+    "static/media/linkedin.svg": "/shriram-travels/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
+    "index.html": "/shriram-travels/index.html",
+    "static/media/facebook.svg": "/shriram-travels/static/media/facebook.d0e6c35f87cabc4c3d016b72ba214d1f.svg",
+    "static/media/logo.svg": "/shriram-travels/static/media/logo.8df1ccc4c82fc8dacd802cd741ccbb86.svg",
+    "main.90590d01.css.map": "/shriram-travels/static/css/main.90590d01.css.map",
+    "main.ec8a9a67.js.map": "/shriram-travels/static/js/main.ec8a9a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90590d01.css",
+    "static/js/main.ec8a9a67.js"
+  ]
+}
